@@ -25,6 +25,14 @@ h3 {
 	margin: 10px 0px;
 }
 
+.nav-item-footer {
+	font-size: 18px;
+	color: white;
+	background-color: dimgray;
+	text-align: left
+	padding-right: 30px;
+}
+
 #header {
 	background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
@@ -34,5 +42,18 @@ h3 {
 }
 
 #section {
-	margin: 50px 0px;
+	margin: 30px 0px;
+}
+
+.banner {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+	color: white;
+	padding: 20px 0px;
+}
+
+.footer {
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+	text-align: left;
 }
